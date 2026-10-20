@@ -1,0 +1,23 @@
+# Build products
+build/
+lkf_vector
+ekf_vector
+*.o
+*.obj
+*.exe
+*.out
+
+# Generated results and local datasets
+output/
+m4_verification_tables/
+data/
+*.csv
+
+# Archives and editor files
+*.zip
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
